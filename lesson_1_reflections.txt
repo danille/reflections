@@ -1,0 +1,6 @@
+I could be a more efficient programmer having access to the entire histiry if a file because I could find bugs more quickly 
+
+It's very subjectivily
+
+it is more efficiently. you can save few files of one module in one commit
+
